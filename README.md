@@ -1,4 +1,4 @@
-markdown# 🤖 FLOW — Agente de Inteligência Artificial
+🤖 FLOW — Agente de Inteligência Artificial
 
 O **FLOW** é um agente virtual oficial da **Flowcore_IA**, desenvolvido em Python e integrado à API do Google Gemini utilizando o SDK mais recente (`google-genai`). O agente opera via terminal com uma persona customizada, profissional, direta e suporte a histórico de conversas (memória de sessão).
 
