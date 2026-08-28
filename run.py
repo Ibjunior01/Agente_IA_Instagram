@@ -1,9 +1,3 @@
-"""
-Compatibilidade temporária com a estrutura anterior.
-
-Use run.py para iniciar a aplicação.
-"""
-
 from app import create_app
 from app.config import PORT
 

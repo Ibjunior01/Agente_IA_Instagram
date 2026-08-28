@@ -1,0 +1,7 @@
+-r requirements.txt
+
+# Tests
+pytest>=8.4.2,<9.0
+
+# Code quality
+ruff>=0.12,<1.0
